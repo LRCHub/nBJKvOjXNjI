@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "#fyp",
+  "base_artist": "OLDUCT",
+  "createdAt": "2026-02-27T01:53:00.811491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FYP",
+      "artist": "RIZ LA VIE",
+      "has_synced": false,
+      "path": "select/01_FYP_RIZ_LA_VIE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FYP",
+      "artist": "Nemzzz",
+      "has_synced": true,
+      "path": "select/02_FYP_Nemzzz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FYP (burn book)",
+      "artist": "Citizen Queen",
+      "has_synced": true,
+      "path": "select/03_FYP_(burn_book)_Citizen_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Difficult (FYP)",
+      "artist": "Kevin Gates",
+      "has_synced": true,
+      "path": "select/04_Difficult_(FYP)_Kevin_Gates.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FYP TODAY",
+      "artist": "Ecko Show",
+      "has_synced": false,
+      "path": "select/05_FYP_TODAY_Ecko_Show.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FYP LUV",
+      "artist": "ALLMO$T",
+      "has_synced": true,
+      "path": "select/06_FYP_LUV_ALLMO$T.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FYP",
+      "artist": "Drama Band",
+      "has_synced": false,
+      "path": "select/07_FYP_Drama_Band.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FYP",
+      "artist": "Nemzzz",
+      "has_synced": true,
+      "path": "select/08_FYP_Nemzzz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "fyp.",
+      "artist": "Pencing",
+      "has_synced": true,
+      "path": "select/09_fyp._Pencing.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FYP (Paused)",
+      "artist": "Nemzzz",
+      "has_synced": true,
+      "path": "select/10_FYP_(Paused)_Nemzzz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FYP TODAY 2",
+      "artist": "Ecko Show",
+      "has_synced": false,
+      "path": "select/11_FYP_TODAY_2_Ecko_Show.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FYP  (sped up)",
+      "artist": "Nemzzz",
+      "has_synced": false,
+      "path": "select/12_FYP_(sped_up)_Nemzzz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FYP",
+      "artist": "Julia Wolf",
+      "has_synced": false,
+      "path": "select/13_FYP_Julia_Wolf.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dj Viral Fyp Angkat Padi",
+      "artist": "Yoga Ardiansyah RMX",
+      "has_synced": false,
+      "path": "select/14_Dj_Viral_Fyp_Angkat_Padi_Yoga_Ardiansyah_RMX.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fyp Today 3",
+      "artist": "Ecko Show",
+      "has_synced": false,
+      "path": "select/15_Fyp_Today_3_Ecko_Show.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Děvče z FYP (Sped Up)",
+      "artist": "Totally Nothin",
+      "has_synced": false,
+      "path": "select/16_Děvče_z_FYP_(Sped_Up)_Totally_Nothin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#fyp",
+      "artist": "OLDUCT",
+      "has_synced": false,
+      "path": "select/pl_01_fyp_OLDUCT.txt"
+    }
+  ]
+}
